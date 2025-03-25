@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **database, backend network dev, English, data science**
 
-- 📝 I may be about to regularly write articles on [wold9168.github.io](wold9168.github.io)
+- 📝 I may be about to regularly write articles on [wold9168.github.io](https://wold9168.github.io)
 
 - 💬 Ask me about **c&cpp, linux, golang**
 
