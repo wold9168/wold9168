@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wold9168" alt="wold9168" /></a> </p>
 
-- 🔭 I’m currently working on [Nationwide Master's Program Unified Admissions Examination]([https://gitee.com/opengauss/riscv](https://en.wikipedia.org/wiki/Nationwide_Master%27s_Program_Unified_Admissions_Examination))
+- 🔭 I’m currently working on [Nationwide Master's Program Unified Admissions Examination](https://en.wikipedia.org/wiki/Nationwide_Master%27s_Program_Unified_Admissions_Examination)
 
 - 🌱 I’m currently learning **database, backend network dev, English, data science, golang**
 
