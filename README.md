@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wold9168" alt="wold9168" /></a> </p>
 
-- 🔭 I’m currently working on [openGauss RISC-V](https://gitee.com/opengauss/riscv)
+- 🔭 I’m currently working on [Nationwide Master's Program Unified Admissions Examination]([https://gitee.com/opengauss/riscv](https://en.wikipedia.org/wiki/Nationwide_Master%27s_Program_Unified_Admissions_Examination))
 
-- 🌱 I’m currently learning **database, backend network dev, English, data science**
+- 🌱 I’m currently learning **database, backend network dev, English, data science, golang**
 
-- 📝 I may be about to regularly write articles on [wold9168.github.io](https://wold9168.github.io)
+- 📝 I may be about to regularly write articles on [wold9168.github.io](https://wold9168.github.io) (not ready yet)
 
 - 💬 Ask me about **c&cpp, linux, golang**
 
 - 📫 How to reach me **connect2wold9168@outlook.com**
 
-- ⚡ Fun fact **intereseted in tea**
+- ⚡ Fun fact **intereseted in tea and literature, playing video games on Linux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
