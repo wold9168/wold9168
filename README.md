@@ -9,13 +9,17 @@
 
 - 🌱 I’m currently learning **database, backend network dev, English, data science, golang**
 
-- 📝 I may be about to regularly write articles on [wold9168.github.io](https://wold9168.github.io) (not ready yet)
+- 📝 I may be about to regularly write articles on [wold9168.github.io](https://wold9168.github.io)
 
 - 💬 Ask me about **c&cpp, linux, golang**
 
 - 📫 How to reach me **connect2wold9168@outlook.com**
 
 - ⚡ Fun fact **intereseted in tea and literature, playing video games on Linux**
+
+- 🎮 I'm grinding for **Touhou Hisoutensoku** (th123) in my free time. And I've just started playing **Arknights** just now.
+
+- ✉️ Email me at [moewold@outlook.com](mailto://moewold@outlook.com) (for general purpose) and [connect2wold9168@outlook.com](mailto://connect2wold9168@outlook.com) (for work).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
