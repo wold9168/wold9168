@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **intereseted in tea and literature, playing video games on Linux**
 
-- 🎮 I'm grinding for **Touhou Hisoutensoku** (th123) in my free time. And I've just started playing **Arknights** just now.
+- 🎮 I'm grinding for **Touhou Hisoutensoku** (th123) and **Helldivers 2** in my free time. And I've just started playing **Arknights** just now.
 
 - ✉️ Email me at [moewold@outlook.com](mailto://moewold@outlook.com) (for general purpose) and [connect2wold9168@outlook.com](mailto://connect2wold9168@outlook.com) (for work).
 
