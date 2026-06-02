@@ -23,9 +23,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/若东-林-810a41295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="若东-林-810a41295" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/27058902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27058902" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/wold9168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="wold9168" height="30" width="40" /></a>
+<!-- <a href="https://linkedin.com/in/若东-林-810a41295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="若东-林-810a41295" height="30" width="40" /></a> -->
+
+- E-Mail(Often Used): [moewold@outlook.com](mailto://moewold@outlook.com) (for general purpose) and [connect2wold9168@outlook.com](mailto://connect2wold9168@outlook.com) (for work).
+- CodeBerg(Seldom Used): [wold9168@CodeBerg](https://codeberg.org/wold9168)
+- GitCode(Seldom Used): [wold9168@GitCode](https://gitcode.com/wold9168)
+- StackOverflow(Seldom Used): <a href="https://stackoverflow.com/users/27058902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27058902" height="30" width="40" /></a>
+- CodeForces(Seldom Used): <a href="https://codeforces.com/profile/wold9168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="wold9168" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Technologies I have worked with:</h3>
