@@ -45,3 +45,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wold9168&" alt="wold9168" /></p>
 
+More info about me: [link](https://wold9168.github.io/about/)
