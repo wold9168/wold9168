@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm wold9168</h1>
-<h3 align="center">A student developer who is motivated by interest & Touhou Project Fans</h3>
+<h3 align="center">A student developer motivated by interest</h3>
+<p align="center">(a.k.a. Shinonome Tera tanuki, 東雲 寺貍, 阿寺, a4, 24, etc.)</p>
+<p align="center">More info about me: <a href="https://wold9168.github.io/about/">link</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wold9168&label=Profile%20views&color=0e75b6&style=flat" alt="wold9168" /> </p>
 
@@ -15,7 +17,11 @@
 
 - 📫 How to reach me **connect2wold9168@outlook.com**
 
-- ⚡ Fun fact **intereseted in tea and literature, playing video games on Linux**
+- ⚡ Fun fact: **intereseted in tea and literature, playing video games on Linux**
+
+- 💡Tech tendency: I want to be exposed to **Rust, LLM(AI), Machine Learning, AI Infra(CUDA, ROCm, Intel OneAPI, Ascend CANN), kernel module development(eBPF, hardware driver, and so on), ARM/RISC-V/LoongArch development & package porting, DEB/RPM/Flatpak/AppImage software packaging** if I'm free.
+
+> btw, I aspire to become an engineer who is proficient in both software and hardware, and who has a basic understanding of every level of the technology stack across the entire computing world.
 
 - 🎮 I'm grinding for **Touhou Hisoutensoku** (th123) and **Helldivers 2** in my free time. And I've just started playing **Arknights** just now.
 
@@ -44,5 +50,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wold9168&show_icons=true&locale=en" alt="wold9168" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wold9168&" alt="wold9168" /></p>
-
-More info about me: [link](https://wold9168.github.io/about/)
